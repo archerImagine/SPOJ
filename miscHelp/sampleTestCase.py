@@ -1,3 +1,4 @@
-inputs = int(raw_input())
-while inputs:
-	inputs -= 1
+testCases = int(raw_input())
+while testCases:
+
+	testCases -= 1
